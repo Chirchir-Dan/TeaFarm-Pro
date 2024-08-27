@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/dan/Documents/ALXSE/TeaFarm-Pro/venv"
+set -gx VIRTUAL_ENV "/home/ubuntu/TeaFarm-Pro/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
